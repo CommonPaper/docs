@@ -71,7 +71,7 @@ Here’s an example payload sent after a new agreement is created.
 }
 ```
 
-Events
+### Events
 When configured with an endpoint, Common Paper will send the event information when the following events occur.
 
 
